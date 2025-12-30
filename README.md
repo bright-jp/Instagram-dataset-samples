@@ -1,57 +1,57 @@
 # instagram-dataset-samples
 
-<h2>A sample dataset of 2180 Instagram coding influencers</h2>
+<h2>2180人のInstagramコーディングインフルエンサーのサンプルデータセット</h2>
 
 ![instagram dataset header](https://github.com/luminati-io/Instagram-dataset-samples/blob/main/instagram-datasets.PNG)
 
-A github dataset sample of over 2000 leading Instagram [Github](https://www.instagram.com/explore/tags/github/) coding influencers. Dataset was extracted using the <b>Bright Data Collector</b>.
+2000人以上の主要なInstagramの[Github](https://www.instagram.com/explore/tags/github/)コーディングインフルエンサーのGitHubデータセットサンプルです。データセットは<b>Bright Data Collector</b>を使用して抽出されました。
 
-<h2>Data points included in this free dataset:</h2>
+<h2>この無料データセットに含まれるデータポイント:</h2>
 
-* followers count
-* profile type
-* account type
-* engagement score
-* categories
-* location
-* external/bio links
-* hashtags used
-* brand affiliation
-* bio
-* highlights
-* posts
+* フォロワー数
+* プロフィールタイプ
+* アカウントタイプ
+* エンゲージメントスコア
+* カテゴリ
+* ロケーション
+* 外部/バイオリンク
+* 使用されたハッシュタグ
+* ブランド提携
+* バイオ
+* ハイライト
+* 投稿
 
 
 
-This is a sample subset which is derived from the "All Instagram account, business & nonbusiness (public data)"
-dataset which includes <b>614,000,000 Instagram profiles</b>.
+これは、「All Instagram account, business & nonbusiness (public data)」データセットから派生したサンプルサブセットです。
+このデータセットには<b>614,000,000件のInstagramプロフィール</b>が含まれています。
 
-In this example, the large dataset was filtered down into a smaller subset using smart filter queries available on the Bright Data control panel.
-<h2>Queries used for filtering this subset:</h2>
+この例では、Bright Dataのコントロールパネルで利用できるスマートフィルタークエリを使用して、大規模なデータセットをより小さなサブセットに絞り込みました。
+<h2>このサブセットのフィルタリングに使用したクエリ:</h2>
 
 
 *   	$or: [{"post_hashtags":"github"},{"bio_hashtags":"github"}]
 *   	followers: {"$gt":100}
 
-Additional filter query values include: <b>Posts count, cuntry, verified account, multiple hashtag combinations and more.</b>
+追加のフィルタークエリ値には、<b>投稿数、cuntry、認証済みアカウント、複数ハッシュタグの組み合わせなど</b>が含まれます。
 
-Available dataset file formats: <b>JSON, NDJSON, JSON Lines, CSV, or Parquet.</b>.
+利用可能なデータセットファイル形式: <b>JSON, NDJSON, JSON Lines, CSV, or Parquet.</b>。
 
-Dataset delivery type options: <b>API download, Amazon S3, Google cloud, Microsoft Azure, SFTP</b>.
+データセットの配信タイプオプション: <b>API download, Amazon S3, Google cloud, Microsoft Azure, SFTP</b>。
 
-Data enrichment available as an addition to the data points extracted: <b>Avg. post engagement rate, brand affiliation and more.</b>
+抽出されたデータポイントに追加できるデータエンリッチメント: <b>平均投稿エンゲージメント率、ブランド提携など</b>。
 
-Get the full  <b>[Instagram dataset](https://brightdata.com/products/datasets/instagram)</b>.
+完全版の<b>[Instagram dataset](https://brightdata.jp/products/datasets/instagram)</b>を入手してください。
 
-<h2>Additional Instagram datasets available:</h2>
+<h2>利用可能な追加のInstagramデータセット:</h2>
 
-*   635,000,000 "Instagram profiles dataset" 
-*   89,000,000 "Instagram posts dataset"
-*   12,490,000 "Instagram reels dataset"
-*   206,000 "Instagram comments dataset"
+*   635,000,000 「Instagram profiles dataset」 
+*   89,000,000 「Instagram posts dataset」
+*   12,490,000 「Instagram reels dataset」
+*   206,000 「Instagram comments dataset」
 
-<h2>Free access to web scraping tools and datasets for academic researchers and NGOs</h2>
+<h2>学術研究者およびNGO向けのWebスクレイピングツールとデータセットへの無料アクセス</h2>
 
-The Bright Initiative offers access to Bright Data's [Web Scraper APIs](https://brightdata.com/products/web-scraper) to leading academic faculties and researchers, NGOs and NPOs promoting various environmental and social causes. You can submit an application [here](https://brightinitiative.com).
+Bright Initiativeは、さまざまな環境・社会的課題の推進に取り組む主要な学術機関の学部および研究者、NGO、NPOに対して、Bright Dataの[Web Scraper APIs](https://brightdata.jp/products/web-scraper)へのアクセスを提供しています。申請は[こちら](https://brightinitiative.com)から提出できます。
 
-### Want to scrape Instagram yourself? Use our [Instagram Scraper](https://brightdata.com/products/web-scraper/instagram)
+### Instagramを自分でスクレイピングしたいですか？当社の[Instagram Scraper](https://brightdata.jp/products/web-scraper/instagram)をご利用ください
