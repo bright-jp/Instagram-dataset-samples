@@ -2,7 +2,7 @@
 
 <h2>2180人のInstagramコーディングインフルエンサーのサンプルデータセット</h2>
 
-![instagram dataset header](https://github.com/luminati-io/Instagram-dataset-samples/blob/main/instagram-datasets.PNG)
+![instagram dataset header](https://github.com/bright-jp/Instagram-dataset-samples/blob/main/instagram-datasets.PNG)
 
 2000人以上の主要なInstagramの[Github](https://www.instagram.com/explore/tags/github/)コーディングインフルエンサーのGitHubデータセットサンプルです。データセットは<b>Bright Data Collector</b>を使用して抽出されました。
 
