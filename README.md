@@ -1,4 +1,4 @@
-# instagram-dataset-samples
+# instagram データセットサンプル
 
 <h2>2180人のInstagramコーディングインフルエンサーのサンプルデータセット</h2>
 
